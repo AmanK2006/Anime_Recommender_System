@@ -12,3 +12,4 @@ imbalanced-learn
 xgboost
 lightgbm
 
+wordcloud

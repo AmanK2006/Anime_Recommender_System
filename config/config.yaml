@@ -1,0 +1,8 @@
+Data Ingestion:
+  bucket_name : "amannk2006_bucket2"
+  bucket_file_name: 
+    - "anime[1].csv"
+    - "anime_with_synopsis[1].csv"
+    - "animelist[1].csv"
+  train_ratio: 0.8
+
