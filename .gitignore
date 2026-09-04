@@ -57,3 +57,12 @@ mlartifacts/
 
 # Environment variables & secrets
 .env
+
+# PyTorch and TensorFlow Checkpoints
+*.pth
+*.pt
+*.h5
+*.ckpt
+
+# Local artifacts directory
+notebooks/weights.pth
