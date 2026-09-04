@@ -13,3 +13,6 @@ xgboost
 lightgbm
 
 wordcloud
+torch
+torchvision 
+torchaudio
